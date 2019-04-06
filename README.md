@@ -1,1 +1,1 @@
-# skrzypecki.github.io
+Image classfication demo using MobileNet.
